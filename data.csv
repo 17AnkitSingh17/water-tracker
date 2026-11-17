@@ -1,0 +1,24 @@
+I have noted this data from the last day register note of security guard(16-11-2026) 
+from morning 08:00 to evening 19:30.
+
+Time,  Action, Quantity
+08:00,Supplier_Dropped_Full,50
+08:30,Student_Took_Full,2
+09:00,Student_Took_Full,1
+09:15,Student_Returned_Empty,2
+10:00,Student_Took_Full,3
+10:30,Student_Returned_Empty,1
+11:00,Student_Took_Full,1
+11:45,Student_Returned_Empty,3
+12:30,Student_Took_Full,2
+13:00,Student_Returned_Empty,1
+14:00,Student_Took_Full,4
+15:00,Student_Returned_Empty,2
+15:30,Student_Took_Full,1
+16:15,Student_Returned_Empty,1
+17:00,Student_Took_Full,3
+17:30,Student_Returned_Empty,4
+18:00,Student_Took_Full,2
+18:45,Student_Returned_Empty,2
+19:00,Supplier_Picked_Empty,10
+19:30,Student_Took_Full,1
